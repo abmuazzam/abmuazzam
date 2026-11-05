@@ -1,25 +1,40 @@
-# Muazzam — Software Engineer
+<div align="center">
 
-I’m Muazzam, a software engineer focused on building reliable web applications and backend systems with **.NET and Laravel**. I design APIs, automate workflows, and build integrations that help teams move from manual processes to dependable digital operations.
+# Hi, I’m Muazzam 👋
 
-**[Visit my portfolio](https://abdulmuazzam.in)** · [LinkedIn](https://www.linkedin.com/in/muazzammanzoor)
+### Software Engineer · .NET & Laravel
+
+I build dependable web applications, APIs, and workflow automations that help teams spend less time on manual work.
+
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-6C4CE3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulmuazzam.in)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muazzammanzoor)
+
+</div>
+
+---
 
 ## What I build
 
-- Business systems and internal tools
-- API integrations and webhook-driven workflows
-- Approval and reminder processes
-- Database-backed web applications for real-world operations
+| 🔌 Connected systems | ⚙️ Workflow automation | 🧩 Business applications |
+| --- | --- | --- |
+| APIs and webhook integrations that help applications work together. | Approval flows, scheduled jobs, and reminders that reduce repetitive tasks. | Reliable, database-backed tools designed around real operational needs. |
 
-## What I work with
+## My toolkit
 
-- **Languages & frameworks:** C#, .NET, PHP, Laravel
-- **Data access:** Entity Framework, Dapper
-- **Databases:** SQL Server, MySQL, PostgreSQL, Oracle
-- **Engineering:** API development, webhook integrations, approval workflows, scheduled background jobs
+- **Languages & frameworks** — C#, .NET, PHP, Laravel
+- **Data access** — Entity Framework, Dapper
+- **Databases** — SQL Server, MySQL, PostgreSQL, Oracle
 
-I build maintainable software that reduces operational friction and helps teams move faster with less manual work.
+I care about maintainable engineering and building software that makes day-to-day work simpler.
 
-## Get in touch
+---
 
-Have a project or engineering problem to discuss? [Email me](mailto:info@abdulmuazzam.in).
+<div align="center">
+
+### Have a project in mind?
+
+Let’s talk about what you’re building.
+
+[![Email Muazzam](https://img.shields.io/badge/Email_Muazzam-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@abdulmuazzam.in)
+
+</div>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ab+Muazzam+%F0%9F%91%8B;Software+Engin[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ab+Muazzam+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ I am a software engineer focused on building reliable web solutions that solve r
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-00A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AJAX-00A6FF?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ### Databases

@@ -1,35 +1,34 @@
 <div align="center">
 
-# MUAZZAM
-
-### SOFTWARE ENGINEER · .NET × LARAVEL
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:4F46E5&height=210&section=header&text=MUAZZAM&fontSize=58&fontColor=F9FAFB&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20.NET%20%26%20LARAVEL&descAlignY=65&descSize=17&animation=fadeIn" alt="Muazzam — Software Engineer specializing in .NET and Laravel" />
 
 **I turn complex workflows into clear, dependable software.**
 
-APIs · Integrations · Workflow automation
+APIs&nbsp; · &nbsp;Integrations&nbsp; · &nbsp;Workflow automation
 
-[**VIEW MY PORTFOLIO →**](https://abdulmuazzam.in) &nbsp; · &nbsp; [**LET’S CONNECT**](https://www.linkedin.com/in/muazzammanzoor)
+[![Explore my portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4F46E5)](https://abdulmuazzam.in)&nbsp;
+[![Email me](https://img.shields.io/badge/LET’S_TALK-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@abdulmuazzam.in)
 
 </div>
 
 ---
 
-## What I bring to the build
+## What I build
 
-**01 — Connect systems**  
-I build APIs and webhook integrations that let applications share data and work together reliably.
+**Connect systems**  
+APIs and webhook integrations that help applications exchange data and work together reliably.
 
-**02 — Automate the busywork**  
-I develop approval flows, scheduled jobs, and reminders that make everyday processes easier to manage.
+**Automate workflows**  
+Approval flows, scheduled background jobs, and reminders that take repetitive work off people’s hands.
 
-**03 — Build for real operations**  
-I create database-backed web applications designed around the needs of the teams who use them.
+**Support real operations**  
+Database-backed applications designed around the practical needs of the teams who use them.
 
-## The toolkit
+## How I build
 
-| Backend | Data access | Databases |
-| --- | --- | --- |
-| C# · .NET · PHP · Laravel | Entity Framework · Dapper | SQL Server · MySQL · PostgreSQL · Oracle |
+- **Backend:** C# · .NET · PHP · Laravel
+- **Data access:** Entity Framework · Dapper
+- **Databases:** SQL Server · MySQL · PostgreSQL · Oracle
 
 I care about thoughtful engineering, maintainable systems, and software that makes work simpler.
 
@@ -37,10 +36,7 @@ I care about thoughtful engineering, maintainable systems, and software that mak
 
 <div align="center">
 
-### HAVE A CHALLENGE TO SOLVE?
-
-**Let’s make it work better.**
-
-[Email Muazzam](mailto:info@abdulmuazzam.in) · [Portfolio](https://abdulmuazzam.in)
+**Have a workflow worth improving?**  
+[Let’s talk](mailto:info@abdulmuazzam.in) · [See my portfolio](https://abdulmuazzam.in) · [Connect on LinkedIn](https://www.linkedin.com/in/muazzammanzoor)
 
 </div>

@@ -66,17 +66,6 @@ I am a software engineer focused on building reliable web solutions that solve r
 
 ---
 
-## 📌 Featured Work
-
-| Project | Description |
-|---|---|
-| [BloodBank](https://github.com/abmuazzam/BloodBank) | PHP-based blood donation management system for handling requests and records. |
-| [DateToWords](https://github.com/abmuazzam/DateToWords) | A simple helper to convert dates into words format. |
-| [laravel-country-state-city](https://github.com/abmuazzam/laravel-country-state-city) | Laravel package for country, state, and city data management. |
-| [loginpage](https://github.com/abmuazzam/loginpage) | Clean HTML5 and CSS3 login page design. |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

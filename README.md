@@ -1,40 +1,46 @@
 <div align="center">
 
-# Hi, I’m Muazzam 👋
+# MUAZZAM
 
-### Software Engineer · .NET & Laravel
+### SOFTWARE ENGINEER · .NET × LARAVEL
 
-I build dependable web applications, APIs, and workflow automations that help teams spend less time on manual work.
+**I turn complex workflows into clear, dependable software.**
 
-[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-6C4CE3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulmuazzam.in)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muazzammanzoor)
+APIs · Integrations · Workflow automation
+
+[**VIEW MY PORTFOLIO →**](https://abdulmuazzam.in) &nbsp; · &nbsp; [**LET’S CONNECT**](https://www.linkedin.com/in/muazzammanzoor)
 
 </div>
 
 ---
 
-## What I build
+## What I bring to the build
 
-| 🔌 Connected systems | ⚙️ Workflow automation | 🧩 Business applications |
+**01 — Connect systems**  
+I build APIs and webhook integrations that let applications share data and work together reliably.
+
+**02 — Automate the busywork**  
+I develop approval flows, scheduled jobs, and reminders that make everyday processes easier to manage.
+
+**03 — Build for real operations**  
+I create database-backed web applications designed around the needs of the teams who use them.
+
+## The toolkit
+
+| Backend | Data access | Databases |
 | --- | --- | --- |
-| APIs and webhook integrations that help applications work together. | Approval flows, scheduled jobs, and reminders that reduce repetitive tasks. | Reliable, database-backed tools designed around real operational needs. |
+| C# · .NET · PHP · Laravel | Entity Framework · Dapper | SQL Server · MySQL · PostgreSQL · Oracle |
 
-## My toolkit
-
-- **Languages & frameworks** — C#, .NET, PHP, Laravel
-- **Data access** — Entity Framework, Dapper
-- **Databases** — SQL Server, MySQL, PostgreSQL, Oracle
-
-I care about maintainable engineering and building software that makes day-to-day work simpler.
+I care about thoughtful engineering, maintainable systems, and software that makes work simpler.
 
 ---
 
 <div align="center">
 
-### Have a project in mind?
+### HAVE A CHALLENGE TO SOLVE?
 
-Let’s talk about what you’re building.
+**Let’s make it work better.**
 
-[![Email Muazzam](https://img.shields.io/badge/Email_Muazzam-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@abdulmuazzam.in)
+[Email Muazzam](mailto:info@abdulmuazzam.in) · [Portfolio](https://abdulmuazzam.in)
 
 </div>

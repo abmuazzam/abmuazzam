@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ab+Muazzam+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer;Building+Modern+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ab+Muazzam+%F0%9F%91%8B;Software+Engin[...]
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ I am a software engineer focused on building reliable web solutions that solve r
 
 - 💼 Experienced in full-stack web development
 - 🧩 Strong in PHP, ASP.NET Core, Laravel, C#, React, JavaScript, HTML, and CSS
-- 🗄️ Skilled in MySQL, SQL Server, and PostgreSQL
+- 🗄️ Skilled in MySQL, MSSQL, and PostgreSQL
 - 🚀 Interested in building clean, maintainable, high-performance systems
 - 🌐 Portfolio: https://abdulmuazzam.in
 
@@ -50,7 +50,7 @@ I am a software engineer focused on building reliable web solutions that solve r
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 

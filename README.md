@@ -1,16 +1,15 @@
 # Muazzam — Software Engineer
 
-I’m Muazzam, a software engineer working with **.NET and Laravel** to build practical web applications, APIs that connect systems, and background jobs that keep workflows moving. I enjoy turning business processes—like webhook integrations, approvals, and reminders—into reliable software.
+I’m Muazzam, a software engineer focused on building reliable web applications and backend systems with **.NET and Laravel**. I design APIs, automate workflows, and build integrations that help teams move from manual processes to dependable digital operations.
 
-**[Explore my portfolio](https://abdulmuazzam.in)** · [LinkedIn](https://www.linkedin.com/in/muazzammanzoor)
+**[Visit my portfolio](https://abdulmuazzam.in)** · [LinkedIn](https://www.linkedin.com/in/muazzammanzoor)
 
-## Selected work
+## What I build
 
-### [Laravel Country, State and City](https://github.com/abmuazzam/laravel-country-state-city)
-A Laravel package for working with country, state, and city data. Explore its `world-data:publish` Artisan command: the package provider publishes starter models, a seeder, a migration, and data-provider classes into an application.
-
-### [DateToWords](https://github.com/abmuazzam/DateToWords)
-A small PHP library that turns dates into readable words. Its [`DateToWord` implementation](https://github.com/abmuazzam/DateToWords/blob/main/src/DateToWord.php) offers methods for converting a date string or separate day, month, and year values.
+- Business systems and internal tools
+- API integrations and webhook-driven workflows
+- Approval and reminder processes
+- Database-backed web applications for real-world operations
 
 ## What I work with
 
@@ -19,7 +18,7 @@ A small PHP library that turns dates into readable words. Its [`DateToWord` impl
 - **Databases:** SQL Server, MySQL, PostgreSQL, Oracle
 - **Engineering:** API development, webhook integrations, approval workflows, scheduled background jobs
 
-I focus on dependable, maintainable solutions that are useful to the people and teams who rely on them.
+I build maintainable software that reduces operational friction and helps teams move faster with less manual work.
 
 ## Get in touch
 

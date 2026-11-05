@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ab+Muazzam+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ab+Muazzam+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer" alt="Hi, I'm Ab Muazzam — Software Engineer and Web Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abmuazzam&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Available%20for%20work-Open%20to%20opportunities-4CAF50?style=flat-square&logo=handshake&logoColor=white" alt="Open for work" />
+  <img src="https://komarev.com/ghpvc/?username=abmuazzam&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Available%20for%20work-Open%20to%20opportunities-4CAF50?style=flat&logo=handshake&logoColor=white" alt="Available for work: open to opportunities" />
 </p>
 
 <h3 align="center">Software Engineer | Web Developer | Database Specialist</h3>
@@ -23,7 +23,7 @@ I am a software engineer focused on building reliable web solutions that solve r
 - 🧩 Strong in PHP, ASP.NET Core, Laravel, C#, React, JavaScript, HTML, and CSS
 - 🗄️ Skilled in MySQL, MSSQL, and PostgreSQL
 - 🚀 Interested in building clean, maintainable, high-performance systems
-- 🌐 Portfolio: https://abdulmuazzam.in
+- 🌐 Portfolio: [abdulmuazzam.in](https://abdulmuazzam.in)
 
 ---
 
@@ -44,12 +44,13 @@ I am a software engineer focused on building reliable web solutions that solve r
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/AJAX-00A6FF?style=flat&logo=javascript&logoColor=white" alt="AJAX" />
+  <img src="https://img.shields.io/badge/AJAX-00A6FF?style=flat&logo=javascript&logoColor=white" alt="AJAX (Asynchronous JavaScript and XML)" />
 </p>
 
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" height="20" alt="Microsoft SQL Server icon" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
@@ -69,12 +70,12 @@ I am a software engineer focused on building reliable web solutions that solve r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abmuazzam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmuazzam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abmuazzam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ab Muazzam's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmuazzam&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abmuazzam&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abmuazzam&theme=tokyonight&hide_border=true" alt="Ab Muazzam's GitHub contribution streak" />
 </p>
 
 ---
@@ -82,29 +83,29 @@ I am a software engineer focused on building reliable web solutions that solve r
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://abdulmuazzam.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://abdulmuazzam.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/muazzammanzoor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muazzammanzoor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/abdulmuazzam.in" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/abdulmuazzam.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.facebook.com/muazzam.manzoor1" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/muazzam.manzoor1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://twitter.com/muazzammanzoor" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/muazzammanzoor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://www.instagram.com/muazzammanzoor" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/muazzammanzoor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:info@abdulmuazzam.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="mailto:letstalk@abdulmuazzam.in">
-    <img src="https://img.shields.io/badge/Business%20Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Business%20Email-FF6F61?style=flat&logo=gmail&logoColor=white" alt="Business email" />
   </a>
 </p>
 

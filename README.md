@@ -4,10 +4,10 @@
 
 ### Building reliable web apps, integrations & workflow automation
 
-I’m Muazzam—a software engineer working across **ASP.NET Core** and **Laravel**. I turn complex business processes into clean, dependable software.
+I’m Muazzam—a software engineer working across **.NET and Laravel**. I turn complex business processes into clean, dependable software.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=flat&logo=googlechrome&logoColor=white)](https://abdulmuazzam.in)
-[![Email](https://img.shields.io/badge/EMAIL-DB2777?style=flat&logo=gmail&logoColor=white)](mailto:info@abdulmuazzam.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=googlechrome&logoColor=white)](https://abdulmuazzam.in)
+[![Email](https://img.shields.io/badge/Email-DB2777?style=flat&logo=gmail&logoColor=white)](mailto:info@abdulmuazzam.in)
 
 </div>
 
@@ -21,21 +21,31 @@ I’m Muazzam—a software engineer working across **ASP.NET Core** and **Larave
 
 ## ✦ Technologies I work with
 
+**Languages & web**  
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 **Frameworks & UI**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat&logo=livewire&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-2563EB?style=flat&logo=javascript&logoColor=white)
 
-**Web**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+**Data access**  
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-183A61?style=flat&logo=databricks&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ---
 
